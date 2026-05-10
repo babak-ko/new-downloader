@@ -1,10 +1,7 @@
-# Downloads
+# Downloaded list :
 
----
-
-## NO FILE DOWNLOADED YET!
-
-Use the download workflows to add files here.
+- [WhiteDNS-1.0.0-universal](./WhiteDNS-1.0.0-universal)
+- [tele-mirror-win-x64](./tele-mirror-win-x64)
 
 ---
 
